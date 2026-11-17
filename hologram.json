@@ -2,6 +2,7 @@
  "hologram": 1,
  "root": "c223bd4a2f6a56783c1fbdb1b1f671fa61c3150ecf320c82796ea5763043a696",
  "n": 73,
+ "storage": 68,
  "r": 3,
  "self": {
   "name": "code",
@@ -305,10 +306,22 @@
  ],
  "flesh": [
   {
+   "name": "ekspozicii",
+   "desc": "КНИГА ЭКСПОЗИЦИЙ",
+   "lang": "HTML",
+   "cluster": ""
+  },
+  {
    "name": "polymath-core",
    "desc": "КНИГА ПОЛИМАТ-ЯДРА",
    "lang": "Python",
    "cluster": ""
+  },
+  {
+   "name": "singulyar-llm",
+   "desc": "Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B-Instruct GGUF частями + инструкционный слой (ОБУЧЕНИЕ). Веса Apache-2.0, генерация — в браузере человека.",
+   "lang": "Python",
+   "cluster": "SINGULAR"
   }
  ]
 }
