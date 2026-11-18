@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="штандарт code" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/banner.png" width="100%" alt="штандарт code" />
 </div>
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
@@ -13,7 +13,7 @@
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
 <div align="center">
-  <img src="forge-divider.svg" width="62%" alt="делитель МАСТЕРСКАЯ КОДА" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/forge-divider.svg" width="62%" alt="делитель МАСТЕРСКАЯ КОДА" />
 </div>
 
 # code — КОД ДОМА
