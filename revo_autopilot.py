@@ -10,7 +10,7 @@
 import hashlib, json, os, re, subprocess
 
 try:
-    CFG = json.loads(r'''{"name": "code", "num": 9, "school": "НОВОСТРОЙ РОЯ", "desc": "Код дома: скрипты и снипеты — место по канону §4", "topics": ["code", "executable", "pid1", "scripts"], "releases": 0, "palette": {"bg": "#2A1D12", "bg2": "#3A2A1B", "ink": "#F1E8D8", "gold": "#D4AF37", "gold2": "#E8C868", "dim": "#B79F7E", "accent": "#1F5B8B"}}''')
+    CFG = json.loads(r'''{"name": "code", "num": 107, "school": "МИФО-РЕАЛИЗМ", "desc": "Код дома: скрипты и снипеты — место по канону §4", "topics": ["code", "executable", "pid1", "scripts"], "releases": 0, "palette": {"bg": "#EFE6CF", "bg2": "#F6EFDC", "ink": "#241C10", "gold": "#9A7B23", "gold2": "#C9A227", "dim": "#6E6249", "accent": "#C43B27"}}''')
 except Exception:
     CFG = {"name": "REVO", "num": 0, "school": "", "desc": "", "topics": [], "releases": 0,
            "palette": dict(bg="#EFE6CF", bg2="#F6EFDC", ink="#241C10", gold="#9A7B23",
