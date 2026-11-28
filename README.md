@@ -4,9 +4,13 @@
 
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/banner.png" width="100%" alt="штандарт code" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/repo-muse.svg" width="100%" alt="Муза code: мастерская КУЗНЯ ПОЛИМАТ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/forge-divider.svg" width="62%" alt="делитель мастерской КУЗНЯ ПОЛИМАТ" />
 </div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
@@ -15,8 +19,24 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 35 | 7 | 118 | 2026-11-28 | 0 |
+| 35 | 8 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# code
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/.github/social-preview.png" alt="code" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/code"><img src="banner.png" width="100%" alt="code — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/banner.png" width="100%" alt="штандарт code" />
+</div>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/code@main/forge-divider.svg" width="62%" alt="делитель МАСТЕРСКАЯ КОДА" />
@@ -39,3 +59,5 @@
 - Каждый файл — самодостаточный: шапка с назначением, зависимостями и примером вызова.
 - Код с секретами не живёт здесь вообще (I-5): секреты — только в Actions secrets.
 - Заимствованный код помечен происхождением (ссылка на источник), чужие лицензии уважаются.
+
+<!--ФОРЖ:ПОДВАЛ-->
