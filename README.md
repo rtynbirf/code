@@ -19,8 +19,20 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 36 | 7 | 120 | 2026-11-28 | 0 |
+| 36 | 8 | 1 | 2026-11-28 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# code
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/code"><img src="banner.png" width="100%" alt="code — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
 
 # code
 
